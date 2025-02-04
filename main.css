@@ -1,0 +1,22 @@
+*{
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#progressaoNum{
+    color: blue;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 30%;
+    transform: (-50%,-50%);
+}
+
+#progressaoNum.button{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
